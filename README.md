@@ -1,4 +1,4 @@
-# Salon-Rezaarvasyon-Sistemi
+# Salon-Rezervasyon-Sistemi
 
 Sinema, konser, tiyatro, vb. tarzı etkinliklerin düzenlendiği bir konser salonu için basit bir 
 rezervasyon sistemi geliştirilecektir. Salondaki koltukların dizilimi aşağıda verilmiştir. 
